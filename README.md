@@ -15,7 +15,11 @@ Ubicados en la carpeta referente al backend se debe ejecutar el comando:
 
 `npm install`
 
-### 1.2 Crear la base de datos
+### 1.2 Configuración de Variables de Entorno
+Copia el archivo `.env.example` a `.env`:
+Completa las credenciales de la base de datos requeridas
+
+### 1.3 Crear la base de datos
 Tener el servicio de PostgreSQL activo y luego ejecutar el siguiente
 comando:
 
