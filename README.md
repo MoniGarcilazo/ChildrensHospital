@@ -1,4 +1,4 @@
-# Childrens Hospital - Nativo Digital
+# Childrens Hospital
 Desarrollado por: [Monica Garcilazo](https://github.com/MoniGarcilazo)
 
 ## Requisitos previos
